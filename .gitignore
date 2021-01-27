@@ -22,3 +22,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+## ionic cap copy
+## ionic cap sync si se edita el nativo
